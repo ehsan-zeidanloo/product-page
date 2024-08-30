@@ -1,0 +1,16 @@
+.footer{
+    width: 1000px;
+    /* min-width: 320px; */
+    background-color: blue;
+    margin: 15px auto;
+    padding:  15px;
+    border-radius: 10px;
+    bottom: 0;
+}
+.footer p{
+text-align: center;
+margin: 0;
+color: white;
+font-size: 1.3rem;
+font-weight: 400;
+}
